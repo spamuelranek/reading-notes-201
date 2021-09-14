@@ -11,3 +11,8 @@ Reading Notes for 201
    - Basic design principles and process
    - Script Design
      - Object oriented coding
+2.[Html text, CSS introduction, and Basic JavaScript Instructions](class-02.md)
+ - Basic Construction of a webpage
+   - Semantic HTML text tags
+   - Forms of CSS and how to apply
+   - The basics of JavaScript and some functions
