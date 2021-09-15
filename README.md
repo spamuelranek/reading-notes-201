@@ -19,4 +19,10 @@ Reading Notes for 201
    - The basics of JavaScript and some functions
 
 3.[HTML Lists, Control Flow with JS, and teh CSS Box Model](class-03.md)
+  - HTML
+    - Boxes on Boxes on Boxes
+    - Lists of Lists
+  - JavaScript
+    - Types of Data
+    - Loopies
 

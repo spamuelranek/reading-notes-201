@@ -67,6 +67,7 @@
 |var highScore = ' ';|Empty String|
 |var highScore = 10/'score';|NaN|
 |var highScore;| variable with no value assigned|
+
 -*javascript and jquery By Ducket pp.167*
 
 ## Truthy
@@ -80,6 +81,7 @@
 |var highScore = 'true';| true written as a string|
 |var highScore = 'false';| false written as a string|
 |var highScore = '0';| zero written as a string|
+
 -*javascript and jquery By Ducket pp.167*
 
 - Now you are in for a Loop
@@ -95,3 +97,5 @@
         - `i++` is the incrementation
     - do...while - the same as while but will run the statement once even if the conditional is evaluated as false
       - `do {i + "is how much people think you smell"; i++;} while (i<10); `
+
+[Knowledge Base](README.md)
