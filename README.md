@@ -26,3 +26,14 @@ Reading Notes for 201
     - Types of Data
     - Loopies
 
+4.[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+- Links
+- Layout
+  - Normal vs everthing else
+  - Fixed vs Liquid
+- Functions
+  - Does the thing
+    - Sometimes needs information
+    - can have the function create arrays
+
+
