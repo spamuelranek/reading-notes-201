@@ -81,6 +81,23 @@
     ```
     - This is know as a function expression
 
-    [Knowledge Base](README.md)
-
-
+## Peer Programing
+- Driver and Navigator
+  - Driver
+    - The one doing the typing
+    - Brain off to the big things
+  - Navigator
+    - Doing the big pictiure thinking
+    - Helping identify mistakes
+- Benefits
+  - Greater Efficiency
+    - Not time faster first time through, but higher quality code
+    - Engaged Collaboration
+      - Easier time to be engaged for the time needed
+    - Learning from fellow students
+      - Help you see solutions in new ways
+    - Social Skills
+      - Being able to communicate in the vernacular clearly is a invaluable skill
+    - Job readiness
+      - Both in interview settings and work enviroment, employers will be looking to see how you manage this skill
+[Knowledge Base](README.md)
