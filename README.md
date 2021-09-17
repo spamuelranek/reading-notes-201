@@ -36,4 +36,8 @@ Reading Notes for 201
     - Sometimes needs information
     - can have the function create arrays
 
+5.[HTML Images, CSS Color & Text](class-05.md)
+- Pictures
+- Color
+- Text
 
