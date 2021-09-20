@@ -41,3 +41,7 @@ Reading Notes for 201
 - Color
 - Text
 
+6.[JS Object Literals; The DOM](class-06.md)
+- Problem Domain
+- Objects
+- THE DOM (Document Object Model)
