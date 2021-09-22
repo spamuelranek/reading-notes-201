@@ -54,6 +54,6 @@ Reading Notes for 201
   - functions are objects
   - methods
 
-8. [CSS Layout](class-8.md)
+8. [CSS Layout](class-08.md)
 - previous reading of [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 - Layout Grids
