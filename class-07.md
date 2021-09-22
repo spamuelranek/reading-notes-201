@@ -1,6 +1,6 @@
 # What's an OBj**e**c*t*
 
-## Domain Modeling
+## [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 ### Modeling
 - This is the abstract construction of what the problem entails. This is a brief that helps multiple stakeholders communicate and express ideas about the problem
 
