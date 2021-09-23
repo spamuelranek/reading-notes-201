@@ -57,3 +57,10 @@ Reading Notes for 201
 8. [CSS Layout](class-08.md)
 - previous reading of [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 - Layout Grids
+
+9. [Tables, tabels, Forms, and Fourms](class-09.md)
+- Forms
+- Forms and table styling
+- Events
+  - different kinds
+  - syntax
