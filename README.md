@@ -64,3 +64,10 @@ Reading Notes for 201
 - Events
   - different kinds
   - syntax
+
+10. [Debugging](class-10.md)
+- Identification
+- Errors
+- Debugging
+  - it is away of life not an end point
+
