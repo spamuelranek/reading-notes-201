@@ -71,3 +71,11 @@ Reading Notes for 201
 - Debugging
   - it is away of life not an end point
 
+11. [Audio, Video, Images](class-11.md)
+- Images
+  - bunch o CSS tags for manipulating Images
+- Practical Magic
+  - SEO
+  - Google Analytics
+- Video and Audio API
+  - controls
