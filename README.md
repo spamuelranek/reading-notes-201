@@ -79,3 +79,7 @@ Reading Notes for 201
   - Google Analytics
 - Video and Audio API
   - controls
+
+12. [Chart.js, Canvas](class-12.md)
+-Charts
+-Canvas
