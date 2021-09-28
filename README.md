@@ -81,5 +81,8 @@ Reading Notes for 201
   - controls
 
 12. [Chart.js, Canvas](class-12.md)
--Charts
--Canvas
+- Charts
+ - [Download Chart.js](https://www.chartjs.org/docs/latest/)
+- Canvas
+  - Drawing
+  - Colors
