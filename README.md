@@ -86,3 +86,8 @@ Reading Notes for 201
 - Canvas
   - Drawing
   - Colors
+
+13. [Local Storage](class-13.md)
+- Past
+- Preset
+- Future
