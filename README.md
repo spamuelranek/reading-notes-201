@@ -91,3 +91,9 @@ Reading Notes for 201
 - Past
 - Preset
 - Future
+
+14. [CSS and Working on Teams](class-14.md)
+- 14a. CSS
+  - transformation
+- 14b. Google and Teams
+  - Psychologically Safe-space
